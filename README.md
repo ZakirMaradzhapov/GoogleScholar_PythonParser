@@ -1,4 +1,4 @@
-# README
+# GoogleScholar_PythonParser
 Our project is the parsing of the sites on Python
 
 This is a method for extracting information from websites. This method is primarily aimed at converting unstructured data - in HTML format - on the Internet into structured data: databases or spreadsheets. Site parsing involves accessing the Internet directly via HTTP or via a web browser.
